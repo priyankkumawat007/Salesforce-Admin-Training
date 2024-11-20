@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Attendee__c</members>
+        <members>Feedback__c</members>
+        <members>Lead</members>
+        <members>Training_Session__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomPermission</name>
+    </types>
+    <types>
+        <members>Training_Session__c.DR_for_Same_Name_and_Location</members>
+        <name>DuplicateRule</name>
+    </types>
+    <types>
+        <members>Training_Session__c.MR_for_Training_Session</members>
+        <name>MatchingRule</name>
+    </types>
+    <types>
+        <members>Service_Account</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>Service Account Team</members>
+        <members>Technology Team</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Queue</name>
+    </types>
+    <types>
+        <members>Training_Session__c.Webinar</members>
+        <members>Training_Session__c.Workshop</members>
+        <name>RecordType</name>
+    </types>
+    <types>
+        <members>RR_for_show_only_webinar_online_record</members>
+        <members>RR_for_showing_only_own_feedback</members>
+        <members>SR_Lead_Industry_Filter</members>
+        <name>RestrictionRule</name>
+    </types>
+    <version>55.0</version>
+</Package>
