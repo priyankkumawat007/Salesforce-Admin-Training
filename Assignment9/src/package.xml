@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Path_to_guide_users_through_key_stages</members>
+        <name>AnimationRule</name>
+    </types>
+    <types>
+        <members>Opportunity.CL_to_show_key_fields</members>
+        <name>CompactLayout</name>
+    </types>
+    <types>
+        <members>VoltVision</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Project__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Home_Page</members>
+        <members>Opportunity_Record_Page</members>
+        <members>VoltVision_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>Path_to_guide_users_through_key_stages</members>
+        <name>PathAssistant</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
+    <version>55.0</version>
+</Package>
