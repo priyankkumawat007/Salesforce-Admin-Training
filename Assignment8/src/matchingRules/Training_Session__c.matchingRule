@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MatchingRules xmlns="http://soap.sforce.com/2006/04/metadata">
     <matchingRules>
-        <fullName>MR_for_Training_Session</fullName>
-        <label>MR for Training Session</label>
+        <fullName>MR_on_Training_Session_For_Exact_Name_and_Location</fullName>
+        <label>MR on Training Session For Exact Name and Location</label>
         <matchingRuleItems>
             <blankValueBehavior>NullNotAllowed</blankValueBehavior>
-            <fieldName>Number_of_Sessions__c</fieldName>
+            <fieldName>Name</fieldName>
             <matchingMethod>Exact</matchingMethod>
         </matchingRuleItems>
         <matchingRuleItems>

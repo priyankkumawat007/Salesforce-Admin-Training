@@ -491,6 +491,15 @@
         <label>My Unread Leads</label>
     </listViews>
     <listViews>
+        <fullName>Test_Team_A_and_Leads_Bank_Acc_Lead</fullName>
+        <filterScope>Queue</filterScope>
+        <label>Test Team A and Leads Bank Acc.</label>
+        <queue>Test_Team_A_and_Leads_Bank_Acc</queue>
+        <sharedTo>
+            <allInternalUsers></allInternalUsers>
+        </sharedTo>
+    </listViews>
+    <listViews>
         <fullName>TodaysLeads</fullName>
         <filterScope>Everything</filterScope>
         <filters>

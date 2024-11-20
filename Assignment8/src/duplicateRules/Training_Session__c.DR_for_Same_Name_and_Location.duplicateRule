@@ -7,7 +7,7 @@
     <duplicateRuleFilter xsi:nil="true"/>
     <duplicateRuleMatchRules>
         <matchRuleSObjectType>Training_Session__c</matchRuleSObjectType>
-        <matchingRule>MR_for_Training_Session</matchingRule>
+        <matchingRule>MR_on_Training_Session_For_Exact_Name_and_Location</matchingRule>
         <objectMapping xsi:nil="true"/>
     </duplicateRuleMatchRules>
     <isActive>true</isActive>
